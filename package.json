@@ -1,0 +1,33 @@
+{
+  "name": "mypantry",
+  "version": "1.2.0",
+  "description": "Unique recipe search engine",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bmdumoulin10/final.git"
+  },
+  "keywords": [
+    "food",
+    "recipes",
+    "kitchen",
+    "pantry",
+    "search",
+    "grocery",
+    "cookbook"
+  ],
+  "author": "Brian Dumoulin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bmdumoulin10/final/issues"
+  },
+  "homepage": "https://github.com/bmdumoulin10/final#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "morgan": "^1.7.0"
+  }
+}
